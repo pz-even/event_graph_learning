@@ -1,5 +1,13 @@
-# Overview
-This repo provides the code of [Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010).
+# Neuromorphic Imaging and Classification with Graph Learning
+
+[![doi](https://img.shields.io/badge/Journal-Neurocomputing-blue)](https://doi.org/10.1016/j.neucom.2023.127010)
+[![arXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2309.15627)
+[![HKU](https://img.shields.io/badge/HKU-PDF-b31b1b)](https://www.eee.hku.hk/optima/pub/journal/2401_NC.pdf)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-00b894)](https://bora.teracloud.jp/share/1222c9bfe85f17d9)
+![Python](https://img.shields.io/badge/Python-3.8-3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.8-EE4C2C)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ```
 @article{zhang2024neurocomputing,
   title    =  {Neuromorphic Imaging and Classification with Graph Learning},
@@ -22,8 +30,6 @@ Download our [SN-KTH](https://bora.teracloud.jp/share/1222c9bfe85f17d9):
 
 ![SN-KTH](./imgs/snkth.png)
 
-To simulate your own SN-KTH, please refer to [v2e](https://github.com/SensorsINI/v2e) or [PIX2NVS](https://github.com/PIX2NVS/PIX2NVS).
-
 ## Implementation
 ### Dependencies
 ```
@@ -35,9 +41,9 @@ dv
 psee_loader (https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox/tree/master)
 ```
 ### Usage
-- [x] We only prepare the core code for now. Hopefully it already helps.
-- [x] Train & Test code will be released in the near future. Stay tuned for updates!
+- [x] We prepare the core code for now. Hopefully it already helps.
+- [ ] Train & test code will be released in the near future.
 
 ## Acknowledgement
-Thank [NVS2Graph](https://github.com/PIX2NVS/NVS2Graph) for code reference.
+Thank [NVS2Graph](https://github.com/PIX2NVS/NVS2Graph) for reference.
 
