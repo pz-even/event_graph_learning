@@ -14,8 +14,8 @@
   author  = {Pei Zhang and Chutian Wang and Edmund Y. Lam},
   journal = {Neurocomputing},
   volume  = {565}, pages = {127010(1--9)},
-  year    = {2024}, month = {January},
-  doi     = {10.1016/j.neucom.2023.127010},
+  year    = {2024},
+  doi     = {10.1016/j.neucom.2023.127010}
 }
 ```
 ## Dataset
@@ -27,20 +27,6 @@
 Download our [SN-KTH](https://bora.teracloud.jp/share/1222c9bfe85f17d9):
 
 ![SN-KTH](./imgs/snkth.png)
-
-## Implementation
-### Dependencies
-```
-torch
-torch_geometric
-numpy
-scipy
-dv
-psee_loader (https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox/tree/master)
-```
-### Usage
-- [x] We prepare the core code for now. Hopefully it already helps.
-- [ ] Train & test code will be released in the near future.
 
 ## Acknowledgement
 Thank [NVS2Graph](https://github.com/PIX2NVS/NVS2Graph) for reference.
