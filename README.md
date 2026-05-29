@@ -10,14 +10,12 @@
 
 ```
 @article{zhang2024neurocomputing,
-  title    =  {Neuromorphic Imaging and Classification with Graph Learning},
-  author   =  {Pei Zhang and Chutian Wang and Edmund Y. Lam},
-  journal  =  {Neurocomputing},
-  volume   =  {565},
-  pages    =  {127010(1--9)},
-  month    =  {January},
-  year     =  {2024},
-  doi      =  {10.1016/j.neucom.2023.127010},
+  title   = {Neuromorphic Imaging and Classification with Graph Learning},
+  author  = {Pei Zhang and Chutian Wang and Edmund Y. Lam},
+  journal = {Neurocomputing},
+  volume  = {565}, pages = {127010(1--9)},
+  year    = {2024}, month = {January},
+  doi     = {10.1016/j.neucom.2023.127010},
 }
 ```
 ## Dataset
